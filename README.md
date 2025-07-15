@@ -4,6 +4,26 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 Visita el sitio: https://imissael.github.io/EjerciciosAngular/
 
+
+## Autocompletado & Botones y Badges
+
+
+<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/7dcae817-eef9-424b-91a8-0ffd221c9d6a" />
+
+
+## Listas y Formularios
+
+
+<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/18559af2-86fd-4714-a59e-5c425df84960" />
+
+
+##Extras y Utilidades
+
+
+<img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/b144e2c0-c960-4765-9586-0775615bb310" />
+
+
+
 ## Development server
 
 To start a local development server, run:
