@@ -1,11 +1,20 @@
 # EjerciciosAngular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
 
 Visita el sitio: https://imissael.github.io/EjerciciosAngular/
 
+Este repositorio contiene 15 ejercicios desarrollados en clase como parte del aprendizaje de Angular. Cada ejercicio se enfoca en un componente distinto, permitiendo explorar de forma práctica los conceptos fundamentales del desarrollo de aplicaciones web con Angular.
+
+Los ejercicios se dividen en tres secciones principales: Autocompletado & Botones y Badges, Listas y Formularios, y Extras y Utilidades. Cada sección incluye ejemplos visuales de los componentes en funcionamiento.
 
 ## Autocompletado & Botones y Badges
+En esta sección se desarrollaron componentes que implementan funcionalidades como:
+
+Autocompletado de texto
+
+Botones con distintos estilos y acciones
+
+
 
 
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/7dcae817-eef9-424b-91a8-0ffd221c9d6a" />
