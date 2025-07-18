@@ -21,12 +21,30 @@ Botones con distintos estilos y acciones
 
 
 ## Listas y Formularios
+Aquí se trabajó con componentes que permiten:
+
+Mostrar y filtrar listas
+
+Crear formularios reactivos
+
+Aplicar validaciones de campos
+
+Recibir y mostrar entradas del usuario
 
 
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/18559af2-86fd-4714-a59e-5c425df84960" />
 
 
 ##Extras y Utilidades
+Esta sección incluye componentes adicionales con funciones útiles como:
+
+Tarjetas informativas
+
+Barras de navegación
+
+Diálogos y notificaciones
+
+Herramientas complementarias para enriquecer la interfaz
 
 
 <img width="2880" height="1920" alt="image" src="https://github.com/user-attachments/assets/b144e2c0-c960-4765-9586-0775615bb310" />
