@@ -8,11 +8,33 @@ Este repositorio contiene 15 ejercicios desarrollados en clase como parte del ap
 Los ejercicios se dividen en tres secciones principales: Autocompletado & Botones y Badges, Listas y Formularios, y Extras y Utilidades. Cada sección incluye ejemplos visuales de los componentes en funcionamiento.
 
 ## Autocompletado & Botones y Badges
-En esta sección se desarrollaron componentes que implementan funcionalidades como:
+📘 Autocompletado
+Se implementaron dos componentes que muestran el uso de mat-autocomplete para facilitar la entrada de texto:
 
-Autocompletado de texto
+Autocomplete con opciones numéricas
 
-Botones con distintos estilos y acciones
+Plain Input Autocomplete para calles o nombres
+
+Estos ejercicios permiten aprender a enlazar formularios y listas dinámicas a campos de texto con sugerencias automáticas.
+
+🟡 Botones y Badges
+Esta sección incluye componentes que trabajan con:
+
+✅ Badges (insignias):
+
+Textos con badges pequeños, grandes, y dinámicos
+
+Botones con badges que muestran acciones o notificaciones
+
+✅ Botones:
+
+Botón para ocultar/mostrar badges
+
+Button Toggle con distintos estilos
+
+Bottom Sheet que simula la recepción de archivos
+
+📸 Vista previa:
 
 
 
